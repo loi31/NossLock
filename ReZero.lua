@@ -1,4 +1,5 @@
 local orginalid = game.Players.LocalPlayer.UserId 
+_G.BuyerId = 1819003311
 
 if _G.BuyerId == nil then
   game.Players.LocalPlayer:Kick("Youre Need Put Buyer Id!")
